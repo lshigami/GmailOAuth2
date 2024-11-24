@@ -1,2 +1,3 @@
 # GmailOAuth2
-. The project leverages the Google API Client Library to interact with the Gmail API and implements OAuth2 for secure user authentication.
+This project is designed to build a web application using NestJS that facilitates sending emails through the Gmail API and authenticating users via OAuth2. The application enables users to log in to their Gmail accounts and send emails with attachments.
+
